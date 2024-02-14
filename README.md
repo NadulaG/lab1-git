@@ -1,6 +1,6 @@
 # Nadula Gardiyehewa
 
-## **<ins>Resources</ins>**
+## **<ins>RESOURCES</ins>**
 
 - https://www.markdownguide.org/hacks/
 - https://www.markdownguide.org/basic-syntax/
